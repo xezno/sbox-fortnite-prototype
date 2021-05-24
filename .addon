@@ -1,0 +1,21 @@
+{
+		"name": "fortnite",
+		"sharedassets": "*.*",
+		
+		"depends": 
+		[
+			"base",
+			"citizen",
+			"rust"
+		],
+
+		"gamemodes":
+		[
+			{
+				"name": "fortnite",
+				"title": "Fortnite",
+				"description": "Opossum made me do this",
+				"icon": "https://files.facepunch.com/sbox/org/alex/fortnite/thumb.a88d81f1.jpg"
+			}
+		]
+}
